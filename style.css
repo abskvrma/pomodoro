@@ -1,0 +1,64 @@
+.heading{
+    color: greenyellow;
+    background-color: darkolivegreen;
+    margin: 0 auto;
+    border: 2px dashed;
+    border-radius: 25px;
+    text-align: center;
+    padding: 5px;
+    width: 50%;
+    
+}
+.session-head{
+    color: rgb(106, 27, 27);
+    border: 2px solid rgb(106, 27, 27);
+    border-radius: 25px;
+    width: 70%;
+    height: 80px;
+   margin: 2% auto;
+   display: flex;
+   justify-content: center;
+}
+
+.timer{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 100px;
+    margin: 0 auto;
+    
+    background-color:antiquewhite;
+}
+.digit{
+    margin: auto auto;
+    color: rgb(198, 17, 17);
+}
+#start{
+    width: 10%;
+    height: 2rem;
+    border: 0;
+    color: greenyellow;
+    background-color: darkcyan;
+    border-radius: 25px;
+    margin: 2%;
+}
+#stop{
+    width: 10%;
+    height: 2rem;
+    border: 0;
+    color: greenyellow;
+    background-color: rgb(182, 29, 29);
+    border-radius: 25px;
+    margin: 2%;
+}
+.Btn{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+#todo{
+    text-align: center;
+    color: brown;
+
+}
